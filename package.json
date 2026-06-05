@@ -1,0 +1,11 @@
+{
+  "name": "eigenlayer-slashing-challenger",
+  "version": "1.0.0",
+  "description": "AVS operator surveillance and automated slashing dispute framework",
+  "main": "monitoringChallenger.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5"
+  }
+}
